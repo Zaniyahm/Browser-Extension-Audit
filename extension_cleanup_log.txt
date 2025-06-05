@@ -1,0 +1,15 @@
+Browser: Google Chrome
+
+Extensions Reviewed:
+1. Adblock Plus – Safe, kept
+2. Adobe Acrobat: PDF edit, convert, sign tools – Removed (unnecessary for current use, heavy permissions)
+
+Total Removed: 1  
+Browser restarted: Yes  
+Performance improved: Slightly (faster loading, less clutter)
+
+Malicious Extension Risks:
+- Phishing
+- Data theft
+- Credential harvesting
+- Crypto mining
